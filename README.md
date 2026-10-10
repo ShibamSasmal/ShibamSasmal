@@ -87,7 +87,7 @@ My day-to-day is **C# / .NET** on the backend, **Angular** on the web and **Flut
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShibamSasmal&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" width="100%" />
+  <img src="https://ghchart.rshah.org/2563eb/ShibamSasmal" alt="Contribution graph" width="100%" />
 </p>
 
 ---
